@@ -1,4 +1,4 @@
-# Birthday-Reminder-React01-2022
+# Project Introduction
  Basic birthday reminder project uisng react library
  
 # concept used
